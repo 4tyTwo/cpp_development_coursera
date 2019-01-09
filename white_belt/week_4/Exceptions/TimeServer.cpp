@@ -29,7 +29,7 @@ public:
         catch (exception& e) {
             throw;
         }
-        return LastFetchedTime
+        return LastFetchedTime;
     }
 
 private:
